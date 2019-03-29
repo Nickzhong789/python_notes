@@ -1,1 +1,1 @@
-# Notes of Python Learing
+# Notes of Python Learning
